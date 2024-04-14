@@ -1,0 +1,11 @@
+npm i bcrypt
+npm i body-parser
+npm i connect-flash
+npm i connect-mongodb-session
+npm i ejs
+npm i express
+npm i express-session
+npm i express-validator
+npm i mongodb
+npm i mongoose
+npm i multer
